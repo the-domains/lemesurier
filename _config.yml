@@ -1,14 +1,14 @@
 layout_spectrum: 0.5263006770983338
-typography_spectrum: 0.17785046831704676
+typography_spectrum: 0.08460383513011038
 color:
-  brandStrength: 0.6213881652802229
-  lightness: 0.5964477099478245
-  saturation: 0.9038675506599247
-  rhythmicContrast: 0.6583751472644508
+  brandStrength: 0.43955600587651134
+  lightness: 0.013811704237014055
+  saturation: 0.10088726691901684
+  rhythmicContrast: 0.7954578327480704
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
 name: LeMesurier
